@@ -7,3 +7,5 @@ int main() {
   printf("1+1=%d\n", answerToWorld);
   return 0;
 }
+
+// Detailen't C.
