@@ -22,7 +22,7 @@ else:
 int main() {
   printf("Hello, World!");
   if ((1 + 1) == 2) {
-    printf("Wow. Pythons apparently know maths.");
+    printf("Wow. Pythons apparently know maths."); // COPY PASTE ALERT!!! (its fine. big projects do this all the time.)
   } else {
     printf("Math is not mathing.");
   }
