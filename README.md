@@ -34,3 +34,4 @@ and give it some html...
 
 
 check the code folder.
+i dont want this readme to be as long as the source code for chromium... os.
